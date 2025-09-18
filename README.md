@@ -51,7 +51,10 @@
 - Ensured proper filing and document control for administrative changes.  
 - Provided general clerical and administrative support.  
 
----
+## Skills Development
+- Java Training Program
+  *May 2025 - October 2025*
+  -Java 808 
 
 ## 👩‍💻 Projects
 
