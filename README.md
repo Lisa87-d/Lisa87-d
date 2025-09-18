@@ -1,11 +1,12 @@
-## Hi, I'm Mandy Matsane!
+## Hi, I'm Lisakhanya Duka!
 
 ### 📝 About Me
-I'm a passionate and dedicated Computer Science graduate from Tshwane University of Technology, having graduated in April 2025. With a strong foundation in both backend and frontend development, I enjoy building innovative solutions that solve real-world problems. I thrive in collaborative environments and am always eager to learn and grow as a developer.
+I'm a curious and detail-driven developer with a passion in turning ideas into code . I thrieve in environments where creativity and logic intersect, Whether it's building intuitive user interfaces or optmizing backend performance , I enjoy crafting solutions that feel seamless and efficient . I'm passionate about creating innovative software that meets the user needs and expectations. I thrive in collaborative environments and am always eager to learn and grow as a developer.
 
 ### 🎓 Education
-- **Diploma in Computer Science**  
-  Tshwane University of Technology — Graduated April 2025
+- 
+- 
+  
 
 ### 💼 Work Experience
 - **Software Developer Intern (Work-Integrated Learning)**  
@@ -18,17 +19,12 @@ I'm a passionate and dedicated Computer Science graduate from Tshwane University
   - Used MySQL databases for storing and retrieving application data.  
   - Used Git and GitHub for version control and collaboration.
 
-- **Student Residence Mentor**  
-  *Tshwane University of Technology*  
-  *February 2023 – December 2023*  
-  Provided guidance and support to students, assisting with exam preparation and fostering academic and personal development.
+- 
 
-### 💻 Skills
-- **Backend Development:** PHP, Java, GlassFish  
-- **Database Management:** PL/SQL, PostgreSQL, MySQL  
-- **Frontend Development:** HTML, CSS, JavaScript, Tailwind CSS, Bootstrap  
-- **Mobile Development:** Kotlin  
-- **Web Frameworks:** Laravel
+### 💻 Skills & Technologies
+- **Backend Development:** Java , Python , Django
+- **Database Management:**  MySQL  
+- **Frontend Development:** HTML, CSS, JavaScript, CSS,   
 - **Version Control:** Git, GitHub
 
 ### 👨‍💻 Projects
