@@ -34,7 +34,7 @@ I'm a curious and detail-driven developer with a passion in turning ideas into c
 2. **Calculator **  
    - **Technologies Used:** Html, CSS, , JavaScript ,   
    - **Description:**  lets users perform basic or advanced arithmetic calculations directly in their browser or app.
-   - **Live Demo:** [AbilityAssist Website](https://ability-assist-347e4e772fc7.herokuapp.com/AbilityAssistWebApp/)
+   - **Live Demo:** [AbilityAssist Website](https://github.com/Lisa87-d/calculator.git)
 
 3. **Beauty website**  
    - **Technologies Used:** Html , CSS , Javascript  
