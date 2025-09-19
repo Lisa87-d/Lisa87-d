@@ -49,7 +49,8 @@
 - Captured and maintained accurate student records and documentation.  
 - Scanned, stored, and retrieved documents for data records.  
 - Ensured proper filing and document control for administrative changes.  
-- Provided general clerical and administrative support.  
+- Provided general clerical and administrative support.
+  
 
 ##💼 Skills Development
 
@@ -57,9 +58,9 @@ Afrika Tikkun (DYICT) -Backend Software Developer(Java) Trainee
 
 May 2025 - October 2025
 
--write and debug basic Java applications
+write and debug basic Java applications
 
--Developed Java Backend web applications using OOP principles
+Developed Java Backend web applications using OOP principles
 
 - Built console applications
   
