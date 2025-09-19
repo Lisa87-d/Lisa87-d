@@ -66,12 +66,12 @@
 ### 🔢 React Counter App  
 - **Technologies Used:** HTML, CSS, JavaScript, React  
 - **Description:** Allows users to increase, decrease, and reset a numerical counter  
-- **GitHub Repo:** [React Counter App](https://github.com/09Jeanette/LifestyleDeliciousWebApp.git)
+- **GitHub Repo:** [React Counter App]()
 
 ### 🧮 Calculator  
 - **Technologies Used:** HTML, CSS, JavaScript  
 - **Description:** Perform basic and advanced mathematical operations through a graphical UI  
-- **Live Demo:** [Calculator]()
+- **Live Demo:** [Calculator](https://github.com/Lisa87-d/calculator.git)
 
 ### 💄 Beauty Website  
 - **Technologies Used:** HTML, CSS, JavaScript  
