@@ -52,7 +52,9 @@
 - Provided general clerical and administrative support.  
 
 ##💼 Skills Development
+
 Afrika Tikkun (DYICT) -Backend Software Developer(Java) Trainee
+
 May 2025 - October 2025
 
 -write and debug basic Java applications
