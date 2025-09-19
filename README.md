@@ -22,11 +22,13 @@ information.
 - Provided general clerical and administrative support. 
   
   
+---
 
 - **Skills Development**  
   *Afrika Tikkun DYICT Software Development (Java) Trainee*  
   *May 2025 – October 2025*  
   
+---
 
 ### 💻 Skills 
 - **Backend Development:** Java , Python 
