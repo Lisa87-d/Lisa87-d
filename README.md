@@ -1,112 +1,67 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=74b9ff&height=200&section=header&text=Hi%20I'm%20Lisakhanya%20Duka!&fontSize=40&fontAlignY=35&desc=Aspiring%20Full-Stack%20Developer%20%7C%20System%20Development%20Graduate&descAlignY=55&animation=twinkling" alt="banner" />
-</p>
 
----
+## Hi, I'm Lisakhanya Duka!
 
-<h3 align="center">💻 Full Stack Developer | System Development Graduate</h3>
-<p align="center">Curious, creative, and passionate about turning ideas into real-world software solutions.</p>
-
----
-
-## 👩‍💻 About Me
-
-💡 I'm a curious and detail-driven developer with a passion for turning ideas into code.  
-✨ I thrive in environments where creativity and logic intersect.  
-🧠 Whether it's building intuitive UIs or optimizing backend performance, I enjoy crafting seamless and efficient solutions.  
-🚀 Always eager to learn, grow, and collaborate as a developer.
-
----
-
-## 🛠️ Skills & Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## 🎓 Education
-
-**System Development NQF Level 4**  
-📍 *Institution Name Here*  
-📅 *Year Completed (Add year if you'd like)*
-
----
-
-## 💼 Work Experience
-
-### 🏢 Back Office  
-*February 2019 – August 2021*  
-- Captured and maintained accurate student records and documentation.  
-- Scanned, stored, and retrieved documents for data records.  
-- Ensured proper filing and document control for administrative changes.  
-- Provided general clerical and administrative support.
+### 📝 About Me
+I'm a curious and detail-driven developer with a passion for turning ideas into code.  
+ I thrive in environments where creativity and logic intersect.  
+Whether it's building intuitive UIs or optimizing backend performance, I enjoy crafting seamless and efficient solutions.  
+Always eager to learn, grow, and collaborate as a developer.
+### 🎓 Education
+- **System Development NQF Level 4**  
   
----
 
-##💼 Skills Development
-
-Afrika Tikkun (DYICT) -Backend Software Developer(Java) Trainee
-
-May 2025 - October 2025
-
-- write and debug basic Java applications
-
-- Developed Java Backend web applications using OOP principles
-
-- Built console applications
+### 💼 Work Experience
+- **Back Office**  
+  *February 2021 – May 2022*  
+  -Captured and maintained accurate student records and documentation.
+- Scanned, stored, and retrieved documents for data verification and
+compliance.
+-Contacted students to obtain missing documents and validate submitted
+information.
+- Ensured proper filing and document control for administrative changes.
+- Provided general clerical and administrative support. 
   
-- Collaborated via Git/GitHub 
+  
 
-## 👩‍💻 Projects
+- **Student Residence Mentor**  
+  *Tshwane University of Technology*  
+  *February 2023 – December 2023*  
+  Provided guidance and support to students, assisting with exam preparation and fostering academic and personal development.
 
-### 1. **React Counter App**  
-- **Technologies:** HTML, CSS, JavaScript  
-- **Description:** Allows users to increment or decrement a number displayed on the screen.  
-- **GitHub:** [React Counter App](https://github.com/Lisa87-d/React.git)
+### 💻 Skills
+- **Backend Development:** PHP, Java, GlassFish  
+- **Database Management:** PL/SQL, PostgreSQL, MySQL  
+- **Frontend Development:** HTML, CSS, JavaScript, Tailwind CSS, Bootstrap  
+- **Mobile Development:** Kotlin  
+- **Web Frameworks:** Laravel
+- **Version Control:** Git, GitHub
 
-### 2. **Calculator App**  
-- **Technologies:** HTML, CSS, JavaScript  
-- **Description:** Performs basic arithmetic calculations in the browser.  
-- **GitHub:** [Calculator App](https://github.com/Lisa87-d/calculator.git)
+### 👨‍💻 Projects
+1. **E-commerce Application**  
+   - **Technologies Used:** Java, Spring Boot, Tomcat, PostgreSQL, Bootstrap  
+   - **Description:** Developed a robust e-commerce platform for managing products, orders, and user accounts.  
+   - **GitHub Repository:** [E-commerce Application](https://github.com/09Jeanette/LifestyleDeliciousWebApp.git)  
 
-### 3. **Beauty Website**  
-- **Technologies:** HTML, CSS, JavaScript  
-- **Description:** A stylish website showcasing beauty services like makeup, nails, and haircare.  
-- **GitHub:** [Beauty Website](https://github.com/Lisa87-d/website.git)
+2. **AbilityAssist Website**  
+   - **Technologies Used:** Python, Django, PostgreSQL, Bootstrap  
+   - **Description:** Designed to aid visually impaired students in navigating the campus.  
+   - **Features:** Interactive map, location search, voice-over navigation, directions, and distance calculations.  
+   - **Live Demo:** [AbilityAssist Website](https://ability-assist-347e4e772fc7.herokuapp.com/AbilityAssistWebApp/)
 
----
-🚀 Featured Project
-🚑 AmbuConnect (In Progress)
+3. **Event Booking Platform**  
+   - **Technologies Used:** PHP, Laravel, Tailwind CSS, TablePlus  
+   - **Description:** Created a user-friendly event booking platform that allows users to browse, book, and manage event tickets easily.  
+   - **Features:** Event listings, booking system, user authentication, and responsive design.  
+   - **User Roles:** Attendee, Admin, and Organizer — each with specific access and functionalities to manage events effectively.
 
- - a Java EE web application that allows patients to request ambulance services whenever they are sick or in an emergency.
- - The system connects patients with available drivers and paramedics, and includes role-based access for admins, drivers, patients, and paramedics
+### 🌟 Objectives
+- Engage in collaborative and impactful projects.  
+- Apply and deepen my technical skills to solve real-world challenges.  
+- Make meaningful contributions to the tech community.  
+- Continue advancing my education and career in computer science.
 
----
-## 🌟 Objectives
-- Build efficient, scalable, and user-friendly web applications that solve real-world problems and deliver exceptional user experiences.  
-- Continuously improve my coding skills and stay updated with the latest technologies and best practices in software development.  
-- Design and develop robust, scalable, and responsive web applications by integrating both front-end and back-end technologies.  
-- Stay current with full-stack development trends and tools to improve code quality and workflows.
+### 📫 Connect with Me
+- **Email:** [mandyzembe25@gmail.com](mailto:mandyzembe25@gmail.com)  
+- **LinkedIn:** [Mandy Matsane](https://www.linkedin.com/in/mandy-matsane-8168a226a/)
 
----
- 
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:dukalisakhanya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mandy-matsane-8168a226a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center"><em>Feel free to reach out for collaboration or networking opportunities!</em></p>
+Feel free to reach out for collaboration or networking opportunities!
