@@ -27,7 +27,9 @@ information.
 ## 💻 Skills Development  
   *Afrika Tikkun DYICT Software Development (Java) Trainee*  
   *May 2025 – October 2025*  
-  -
+  - Developed Java backend web apps using OOP principles
+  - Built console applications
+  - Collaborated via Git/Github
 
 
 ### 💻 Skills 
@@ -52,13 +54,13 @@ information.
    - **Description:** showcasing and promoting beauty-related content, products, and services. 
    
 ### 🌟 Objectives
-- Engage in collaborative and impactful projects.  
-- Apply and deepen my technical skills to solve real-world challenges.  
-- Make meaningful contributions to the tech community.  
-- Continue advancing my education and career in computer science.
+- To continuously expand my technical and soft skills by exploring new technologies, frameworks, and development practices..  
+- To contribute to both frontend and backend development, building intuitive user interfaces and optimizing backend performance for seamless user experiences. 
+- To thrive in collaborative environments where creativity meets logic, and where problem-solving and continuous improvement are encouraged.
+  
 
 ### 📫 Connect with Me
-- **Email:** [mandyzembe25@gmail.com](mailto:mandyzembe25@gmail.com)  
-- **LinkedIn:** [Mandy Matsane](https://www.linkedin.com/in/mandy-matsane-8168a226a/)
+- **Email:** [dukalisakhanya@gmail.com](dukalisakhanya@gmail.com)  
+- **LinkedIn:** [Lisakhanya Duka](https://www.linkedin.com/in/mandy-matsane-8168a226a/)
 
 Feel free to reach out for collaboration or networking opportunities!
