@@ -77,11 +77,10 @@
 - **Technologies Used:** HTML, CSS, JavaScript  
 - **Description:** A site for showcasing and promoting beauty-related products, services, and content
 
-### 💄 AmbuConnect   
-- **Technologies Used:** HTML, CSS, JavaScript  
-- **Description:** A site for showcasing and promoting beauty-related products, services, and content
+###  AmbuConnect   
+AmbuConnect is a Java EE web application that allows patients to request ambulance services whenever they are sick or in an emergency.
+- The system connects patients with available drivers and paramedics, and includes role-based access for admins, drivers, patients, and paramedics
 
----
 
 
 ## 🌟 Objectives
