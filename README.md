@@ -24,10 +24,10 @@ information.
   
 ---
 
-- **Skills Development**  
+## 💻 Skills Development  
   *Afrika Tikkun DYICT Software Development (Java) Trainee*  
   *May 2025 – October 2025*  
-  
+  -
 ---
 
 ### 💻 Skills 
