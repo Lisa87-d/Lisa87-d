@@ -71,11 +71,13 @@
 ### 🧮 Calculator  
 - **Technologies Used:** HTML, CSS, JavaScript  
 - **Description:** Perform basic and advanced mathematical operations through a graphical UI  
-- **Live Demo:** [AbilityAssist Website](https://ability-assist-347e4e772fc7.herokuapp.com/AbilityAssistWebApp/)
+- **Live Demo:** [Calculator]()
 
 ### 💄 Beauty Website  
 - **Technologies Used:** HTML, CSS, JavaScript  
 - **Description:** A site for showcasing and promoting beauty-related products, services, and content
+- **Live Demo:** [Beauty Website](https://github.com/Lisa87-d/website.git)
+
 
 ###  AmbuConnect   
 AmbuConnect is a Java EE web application that allows patients to request ambulance services whenever they are sick or in an emergency.
