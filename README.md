@@ -51,10 +51,13 @@
 - Ensured proper filing and document control for administrative changes.  
 - Provided general clerical and administrative support.  
 
-## Skills Development
-- Java Training Program
-  *May 2025 - October 2025*
-  -Java 808 
+##💼 Skills Development
+Afrika Tikkun (DYICT) -Backend Software Developer(Java) Trainee
+May 2025 - October 2025
+-write and debug basic Java applications
+-Developed Java Backend web applications using OOP principles
+- Built console applications
+- Collaborated via Git/GitHub 
 
 ## 👩‍💻 Projects
 
