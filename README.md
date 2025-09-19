@@ -23,37 +23,32 @@ information.
   
   
 
-- **Student Residence Mentor**  
-  *Tshwane University of Technology*  
-  *February 2023 – December 2023*  
-  Provided guidance and support to students, assisting with exam preparation and fostering academic and personal development.
+- **Skills Development**  
+  *Afrika Tikkun DYICT Software Development (Java) Trainee*  
+  *May 2025 – October 2025*  
+  
 
-### 💻 Skills
-- **Backend Development:** PHP, Java, GlassFish  
-- **Database Management:** PL/SQL, PostgreSQL, MySQL  
-- **Frontend Development:** HTML, CSS, JavaScript, Tailwind CSS, Bootstrap  
-- **Mobile Development:** Kotlin  
-- **Web Frameworks:** Laravel
+### 💻 Skills 
+- **Backend Development:** Java , Python 
+- **Database Management:**  MySQL  
+- **Frontend Development:** HTML, CSS, JavaScript
 - **Version Control:** Git, GitHub
 
 ### 👨‍💻 Projects
-1. **E-commerce Application**  
-   - **Technologies Used:** Java, Spring Boot, Tomcat, PostgreSQL, Bootstrap  
-   - **Description:** Developed a robust e-commerce platform for managing products, orders, and user accounts.  
-   - **GitHub Repository:** [E-commerce Application](https://github.com/09Jeanette/LifestyleDeliciousWebApp.git)  
+1. **React counter app**  
+   - **Technologies Used:** HTML, CSS , JavaScript , React 
+   - **Description:**allows users to increase, decrease, and reset a numerical counter. 
+   - **GitHub Repository:** [React counter app](https://github.com/09Jeanette/LifestyleDeliciousWebApp.git)  
 
-2. **AbilityAssist Website**  
-   - **Technologies Used:** Python, Django, PostgreSQL, Bootstrap  
-   - **Description:** Designed to aid visually impaired students in navigating the campus.  
-   - **Features:** Interactive map, location search, voice-over navigation, directions, and distance calculations.  
+2. **Calculator**  
+   - **Technologies Used:** HTML , CSS , JavaScript 
+   - **Description:**  allows users to perform basic (and sometimes advanced) mathematical operations through a graphical user interface (GUI). 
    - **Live Demo:** [AbilityAssist Website](https://ability-assist-347e4e772fc7.herokuapp.com/AbilityAssistWebApp/)
 
-3. **Event Booking Platform**  
-   - **Technologies Used:** PHP, Laravel, Tailwind CSS, TablePlus  
-   - **Description:** Created a user-friendly event booking platform that allows users to browse, book, and manage event tickets easily.  
-   - **Features:** Event listings, booking system, user authentication, and responsive design.  
-   - **User Roles:** Attendee, Admin, and Organizer — each with specific access and functionalities to manage events effectively.
-
+3. **Beauty website**  
+   - **Technologies Used:** HTML , CSS , JavaScript  
+   - **Description:** showcasing and promoting beauty-related content, products, and services. 
+   
 ### 🌟 Objectives
 - Engage in collaborative and impactful projects.  
 - Apply and deepen my technical skills to solve real-world challenges.  
