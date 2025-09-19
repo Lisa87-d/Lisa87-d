@@ -54,9 +54,13 @@
 ##💼 Skills Development
 Afrika Tikkun (DYICT) -Backend Software Developer(Java) Trainee
 May 2025 - October 2025
+
 -write and debug basic Java applications
+
 -Developed Java Backend web applications using OOP principles
+
 - Built console applications
+  
 - Collaborated via Git/GitHub 
 
 ## 👩‍💻 Projects
