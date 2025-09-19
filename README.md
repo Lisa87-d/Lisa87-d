@@ -66,7 +66,7 @@
 ### 🔢 React Counter App  
 - **Technologies Used:** HTML, CSS, JavaScript, React  
 - **Description:** Allows users to increase, decrease, and reset a numerical counter  
-- **GitHub Repo:** [React Counter App]()
+- **GitHub Repo:** [React Counter App](https://github.com/Lisa87-d/React.git)
 
 ### 🧮 Calculator  
 - **Technologies Used:** HTML, CSS, JavaScript  
