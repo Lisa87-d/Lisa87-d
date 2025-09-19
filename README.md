@@ -51,6 +51,7 @@
 - Ensured proper filing and document control for administrative changes.  
 - Provided general clerical and administrative support.
   
+---
 
 ##💼 Skills Development
 
@@ -87,10 +88,11 @@ May 2025 - October 2025
 🚀 Featured Project
 🚑 AmbuConnect (In Progress)
 
+ - a Java EE web application that allows patients to request ambulance services whenever they are sick or in an emergency.
+ - The system connects patients with available drivers and paramedics, and includes role-based access for admins, drivers, patients, and paramedics
 
-
+---
 ## 🌟 Objectives
-
 - Build efficient, scalable, and user-friendly web applications that solve real-world problems and deliver exceptional user experiences.  
 - Continuously improve my coding skills and stay updated with the latest technologies and best practices in software development.  
 - Design and develop robust, scalable, and responsive web applications by integrating both front-end and back-end technologies.  
