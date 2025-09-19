@@ -93,7 +93,7 @@ May 2025 - October 2025
 - Stay current with full-stack development trends and tools to improve code quality and workflows.
 
 ---
-
+ 
 ## 📫 Connect with Me
 
 <p align="center">
